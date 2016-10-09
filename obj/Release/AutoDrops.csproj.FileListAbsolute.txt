@@ -1,0 +1,11 @@
+C:\Users\Marek\Desktop\AutoDrops-master\bin\Release\AutoDrops.dll
+C:\Users\Marek\Desktop\AutoDrops-master\bin\Release\AutoDrops.pdb
+C:\Users\Marek\Desktop\AutoDrops-master\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Marek\Desktop\AutoDrops-master\bin\Release\Assembly-CSharp.dll
+C:\Users\Marek\Desktop\AutoDrops-master\bin\Release\Rocket.API.dll
+C:\Users\Marek\Desktop\AutoDrops-master\bin\Release\Rocket.Core.dll
+C:\Users\Marek\Desktop\AutoDrops-master\bin\Release\Rocket.Unturned.dll
+C:\Users\Marek\Desktop\AutoDrops-master\bin\Release\UnityEngine.dll
+C:\Users\Marek\Desktop\AutoDrops-master\obj\Release\AutoDrops.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\AutoDrops-master\obj\Release\AutoDrops.dll
+C:\Users\Marek\Desktop\AutoDrops-master\obj\Release\AutoDrops.pdb
